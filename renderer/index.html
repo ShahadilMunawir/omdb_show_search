@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>OMDB App</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>OMDB App</h1>
+        <form>
+            <input type="text" placeholder="Search for a movie or TV series" id="show-search-box">
+            <button>Search</button>
+        </form>
+        <div class="movie-info">
+            <h3 id="show-title"></h3>
+            <p id="year"></p>
+            <p id="rating"></p>
+            <p id="genre"></p>
+            <p id="imdb-rating"></p>
+            <img id="poster-image" src="" onload="showImageBorder()">
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+{
+    "appId": "com.electron.omdb_show_search",
+    "directories": {
+        "output": "dist"
+    },
+    "linux": {
+        "target": "AppImage"
+    }
+}

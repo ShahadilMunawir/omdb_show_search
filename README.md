@@ -1,4 +1,4 @@
-# 🎬 IMDB Show Search
+# 🎬 OMDB Show Search
 
 OMDB Show Search is a simple Electron application that allows you to search for movie or TV show information using the Open Movie Database (OMDB) API. You can enter the title of a movie or TV show, and the application will retrieve and display details such as the title, year, rating, genre, IMDB rating and poster (if available).
 
